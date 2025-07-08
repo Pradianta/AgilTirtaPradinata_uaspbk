@@ -1,0 +1,33 @@
+{
+  "buku": [
+    {
+      "id": "2",
+      "judul": "Belajar JavaScript",
+      "pengarang": "Ani",
+      "tahun": 2020
+    },
+    {
+      "id": "ce2f",
+      "judul": "Seni Berbicara",
+      "pengarang": "Agil",
+      "tahun": 2021
+    }
+  ],
+  "anggota": [
+    {
+      "id": "1",
+      "nama": "Rudi",
+      "kelas": "TI-1A"
+    },
+    {
+      "id": "2",
+      "nama": "Sari",
+      "kelas": "TI-1B"
+    },
+    {
+      "id": "a066",
+      "nama": "agil",
+      "kelas": "4-TI"
+    }
+  ]
+}
