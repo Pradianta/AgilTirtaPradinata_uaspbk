@@ -73,5 +73,5 @@ file test: tests/anggotaStore.test.js.
  Author
 
 Nama: Agil Tirta Pradinata
-NPM: 233610506
+NPM: 233510506
 Mata Kuliah: Pemrograman Berbasis Komponen (PBK)
